@@ -1,1 +1,1 @@
-conflict 1
+fix conflict with the default
